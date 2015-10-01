@@ -2,27 +2,7 @@ img {
   width: 100%;
 }
 
-#facts {
-  display: none;
-}
-
-#food {
-  display: none;
-}
-
-#location {
-  display: none;
-}
-
-#wild {
-  display: none;
-}
-
-#tiger1 {
-  display: none;
-}
-
-#tiger2 {
+#facts, #food, #location, #wild, #tiger1, #tiger2, #list {
   display: none;
 }
 
@@ -33,8 +13,4 @@ img {
 
 .clickable:hover {
   cursor: pointer;
-}
-
-#list{
-  display: none;
 }
