@@ -1,3 +1,40 @@
 img {
   width: 100%;
 }
+
+#facts {
+  display: none;
+}
+
+#food {
+  display: none;
+}
+
+#location {
+  display: none;
+}
+
+#wild {
+  display: none;
+}
+
+#tiger1 {
+  display: none;
+}
+
+#tiger2 {
+  display: none;
+}
+
+.clickable {
+  text-decoration: underline;
+  color: #00088c;
+}
+
+.clickable:hover {
+  cursor: pointer;
+}
+
+#list{
+  display: none;
+}
